@@ -1,2 +1,2 @@
-# digitalschoolofdatascience.github.io
+# dsofdatascience.github.io
 Website
