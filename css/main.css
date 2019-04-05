@@ -660,11 +660,11 @@ th {
         display: none; } }
 
 .gradient-bg, .registration-area .course-form-section .btn, .course-details-left .course-list li .btn:hover, .right-contents .btn.enroll, .contact-page-area .form-area .btn, .top-category-widget-area .single-cat-widget:hover .overlay-bg, .post-content-area .single-post .primary-btn:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .widget-wrap .newsletter-widget .bbtns, .comment-form .btn, .footer-area .single-footer-widget .click-btn, .footer-area .footer-bottom .footer-social a:hover {
-  background: -webkit-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
-  background: -moz-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
-  background: -o-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
-  background: -ms-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
-  background: linear-gradient(90deg, #7c32ff 0%, #c738d8 100%); }
+  background: -webkit-linear-gradient(90deg, #7c32ff 0%, #79a1ea 100%);
+  background: -moz-linear-gradient(90deg, #7c32ff 0%, #79a1ea 100%);
+  background: -o-linear-gradient(90deg, #7c32ff 0%, #79a1ea 100%);
+  background: -ms-linear-gradient(90deg, #7c32ff 0%, #79a1ea 100%);
+  background: linear-gradient(90deg, #7c32ff 0%, #79a1ea 100%); }
 
 .gradient-bg-reverse, #search-input-box {
   background: -webkit-linear-gradient(270deg, #7c32ff 0%, #c738d8 100%);
@@ -869,7 +869,7 @@ th {
     padding: 10px 3px; }
 
 .home-banner-area {
-  background: url(../img/home-banner-bg.png) no-repeat;
+  background: url(../img/home-banner-bg-azul.png) no-repeat;
   background-size: cover;
   background-position: center center;
   max-height: 1200px; }
@@ -917,7 +917,7 @@ th {
       display: none; } }
 
 .banner-area {
-  background: url(../img/banner-bg.png) no-repeat center;
+  background: url(../img/banner-bg-azul.png) no-repeat center;
   background-position: right;
   min-height: 510px; }
 
@@ -1116,7 +1116,7 @@ th {
 /* Start Video Area
 =========================================================================================== */
 .video-area {
-  background: url(../img/video-area-bg.png) no-repeat center; }
+  background: url(../img/video-area-bg-azul.png) no-repeat center; }
   @media (max-width: 991px) {
     .video-area {
       background: #828bb2;
@@ -1218,7 +1218,7 @@ th {
     background: #fff;
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08); }
     .other-feature-item:hover i {
-      color: #7c32ff; }
+      color: #48c2e2; }
 
 .testimonials-area {
   position: relative; }
@@ -1279,7 +1279,7 @@ th {
     margin-bottom: 0; }
 
 .registration-area {
-  background: url(../img/registration-bg.png) no-repeat center;
+  background: url(../img/registration-bg-azul.png) no-repeat center;
   padding: 157px 0px; }
   @media (max-width: 991px) {
     .registration-area {
@@ -3138,7 +3138,7 @@ h6 {
       color: #fff; }
     .footer-area .footer-bottom a,
     .footer-area .footer-bottom span {
-      color: #c738d8; }
+      color: #ffffff; }
     .footer-area .footer-bottom span {
       font-weight: 700; }
     .footer-area .footer-bottom .footer-social {
